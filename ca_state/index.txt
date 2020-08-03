@@ -1,0 +1,2 @@
+V	220307012435Z		01	unknown	/C=US/ST=New York/L=New York City/O=MongoDB/OU=Kernel/CN=SERVER OCSP
+V	220307012639Z		02	unknown	/C=US/ST=New York/L=New York City/O=MongoDB/OU=Kernel/CN=Client OCSP
